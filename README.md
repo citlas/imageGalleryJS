@@ -8,7 +8,7 @@ I am using:
 
 ## Check it
 
-To check how it works go to this [page](https://) 
+To check how it works go to this [page](https://citlas.github.io/imageGalleryJS/) 
 
 
 ## Comments
